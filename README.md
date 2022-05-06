@@ -1,2 +1,2 @@
 # SevenSins-Game
-Attempt to clone Hollow Knight with the Seven Sins topic :3
+Attempt to clone Hollow Knight with the Seven Deadly Sins topic :3
